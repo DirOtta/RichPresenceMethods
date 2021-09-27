@@ -8,7 +8,7 @@
 ---
 ## ⬇️ Scroll down for methods instructions ! ⬇️
 
-[![Discord](https://discordapp.com/api/guilds/716364441658327120/embed.png?style=shield)](https://discord.com/invite/gmtqE4ScJB)
+[![Discord](https://discordapp.com/api/guilds/716364441658327120/embed.png?style=shield)](https://discord.gg/9U4EvWpKR8)
 [![Github](https://img.shields.io/badge/star_it_on-github-black?style=shield&logo=github)](https://github.com/DirOtta)
 
 
