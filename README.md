@@ -136,7 +136,7 @@ After that, open your "executor" and its done. You have a Rich Presence in your 
 
 #### [Windows ![windows](https://media.discordapp.net/attachments/810799100940255260/838488668816932965/ezgif-6-ac9683508192.png)](https://github.com/maximmax42/Discord-CustomRP/releases/download/1.11.10/CustomRP.1.11.10.exe)
 
-- Download the exe, click More Info > Run Anyway > Open Discord RPC Maker from the desktop shortcut or start menu
+- Download the exe, click More Info > Run Anyway > Open Custom RP from the desktop shortcut or start menu
 
 ---
 
