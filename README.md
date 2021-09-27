@@ -210,10 +210,32 @@ Large / Small Image :
 
 - Install the [Rich Presence Plugin](https://betterdiscord.app/Download?id=238)
 
+---
+
+## How it works ?
+
+Go to the [Developer Portal](https://discord.com/developers/applications)
+- New Application
+- Give it a name. 
+- Go to Rich Presence
+  - Art Assets. 
+   - Add 2 images. 
+
+It might take a while before you get up to speed.
 
 
+**On the BetterDiscord Plugin :**
+- Create New Profile and Rename it. 
+  - Go to the [Developer Portal](https://discord.com/developers/applications) and copy your application ID.
+  - Paste it in "Client ID" on Plugin's Settings.
+   - Add Details and State.
 
+- Large / Small Image : 
+  - Key : Name of your image (Assets) on your Dev. Portal
+  - Text : Text you associated in your image.
 
+You can Enable Start Time (Time since your Rich Presence was on)
+You can add 2 buttons.
 
 
 
@@ -223,8 +245,7 @@ Large / Small Image :
 - You can support [**ThatOneCalculator**](https://buymeacoffee.com/that1calculator). He is the author of the [Discord RP Maker](https://github.com/ThatOneCalculator/DiscordRPCMaker). 
 - You can support [**Le FoxTo**](https://streamlabs.com/foxto/tip). He is the author of [Node.JS Rich Presence](https://youtu.be/thUxkRfYVV0). His video is only in French. 
 - You can support [**maxmimmax42**](https://ko-fi.com/maximmax42). He is the author of the [Custom RP](https://github.com/maximmax42/Discord-CustomRP).
-
-
+- You can support [**Lucario**](https://www.buymeacoffee.com/lucariodev). He is the authr of the [BetterDiscord Plugin](https://github.com/Mega-Mewthree/BetterDiscordPlugins/tree/bad904368241b89d129bc81138e25de3be6748c0/Plugins/AutoStartRichPresence) which allows to have a Rich Presence.
 
 
 ---
