@@ -192,5 +192,5 @@ Large / Small Image :
 
 ---
 
-## Still need help, or just want to chat?
-[Contact Me](https://github.com/DirOtta)
+## Still need help, or just want to chat ?
+[Here](https://github.com/DirOtta)
