@@ -66,7 +66,7 @@ It might take a while before you get up to speed.
 
 Again on the Developer Portal 
 - General Information 
-  - Copy APP ID 
+  - Copy App ID 
 
 
 On RPC Maker. 
