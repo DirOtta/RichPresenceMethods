@@ -203,7 +203,7 @@ Large / Small Image :
 ---
 
 ## Install BetterDiscord 
-###### BetterDiscord work only on Canary, PTB and Official Discord client.
+###### BetterDiscord work only on Canary, PTB and the Official Discord client.
 
 #### [Windows ![windows](https://media.discordapp.net/attachments/810799100940255260/838488668816932965/ezgif-6-ac9683508192.png)](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe)
 
