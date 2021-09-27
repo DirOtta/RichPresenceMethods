@@ -29,7 +29,7 @@
 - [x] Clear instructions
 - [x] Optional timer
 - [x] Custom, simplified developer portal
-- [x] Easy installers for Windows, macOS, and Linux
+- [x] Easy installers for Windows
 - [x] Export presences and share with friends
 - [x] Multiple themes
 - [x] Cross-platform system tray support
@@ -51,13 +51,43 @@
 
 ---
 
+## How it works ?
 
 
+Discord RPC Maker is now installed and opened. 
+Click on the [Developer Portal](https://discord.com/developers/applications)
+- New Application
+- Give it a name. 
+- Go to Rich Presence
+  - Art Assets. 
+   - Add 2 images. 
+
+It might take a while before you get up to speed.
+
+Again on the Developer Portal 
+- General Information 
+  - Copy APP ID 
 
 
+On RPC Maker. 
+- Paste the Application ID in "Client ID"
 
 
+---
 
+
+![Small](https://cdn.discordapp.com/attachments/775020194237120532/892101511214170122/1_DF0g7bNW5e2z9XS9N2lAiw.jpeg)
+## Rich Presence with Node.JS
+
+
+---
+
+## Features
+
+- [x] Clickable buttons!
+- [x] Clear instructions
+- [x] Custom, simplified developer portal
+- [x] Easy installers for Windows, macOS, and Linux
 
 
 
