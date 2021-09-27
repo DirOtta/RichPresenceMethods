@@ -103,6 +103,31 @@ On RPC Maker.
 - In this foler. You can see somes files. The only thing to change is your "index". 
 After that, open your "executor" and its done. You have a Rich Presence in your profile ! 
 
+---
+
+
+![Small](https://cdn.discordapp.com/attachments/775020194237120532/892129942526128128/logo.png)
+## Custom RP
+
+
+---
+
+## Features
+
+- [x] Clickable buttons!
+- [x] Tray Minimization
+- [x] Make and manage multiple presences
+- [x] Clean and lightweight UI
+- [x] Clear instructions
+- [x] Optional timer
+- [x] Custom, simplified developer portal
+- [x] Easy installers for Windows
+- [x] Export and Import presences
+- [x] Cross-platform system tray support
+- [x] Auto-update
+- [x] Autostart
+
+
 
 
 
