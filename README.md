@@ -85,9 +85,24 @@ On RPC Maker.
 ## Features
 
 - [x] Clickable buttons!
-- [x] Clear instructions
 - [x] Custom, simplified developer portal
-- [x] Easy installers for Windows, macOS, and Linux
+- [x] Easy installers for Windows, macOS
+
+
+## Install Node.JS
+
+#### [Windows ![windows](https://media.discordapp.net/attachments/810799100940255260/838488668816932965/ezgif-6-ac9683508192.png)](https://nodejs.org/dist/v14.17.6/node-v14.17.6-x64.msi)
+
+#### [macOS ![mac](https://media.discordapp.net/attachments/810799100940255260/838489488505307176/ezgif-6-cea52c6e0dcc.png)](https://nodejs.org/dist/v14.17.6/node-v14.17.6.pkg)
+
+---
+
+## How it works ?
+###### Download the [Open Template](https://github.com/DirOtta/RichPresenceMethods/tree/main/Rich%20Presence%20Usable)
+
+- In this foler. You can see somes files. The only thing to change is your "index". 
+After that, open your "executor" and its done. You have a Rich Presence in your profile ! 
+
 
 
 
@@ -98,8 +113,9 @@ On RPC Maker.
 ---
 
 ## Support Them
-You can support [**ThatOneCalculator**](https://buymeacoffee.com/that1calculator). He is the author of the [Discord RP Maker](https://github.com/ThatOneCalculator/DiscordRPCMaker)
+You can support [**ThatOneCalculator**](https://buymeacoffee.com/that1calculator). He is the author of the [Discord RP Maker](https://github.com/ThatOneCalculator/DiscordRPCMaker). 
 
+You can support [**Le FoxTo**](https://streamlabs.com/foxto/tip). He is the author of [Node.JS Rich Presence](https://youtu.be/thUxkRfYVV0). His video is only in French. 
 
 
 
