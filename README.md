@@ -88,6 +88,7 @@ On RPC Maker.
 - [x] Custom, simplified developer portal
 - [x] Easy installers for Windows, macOS
 
+---
 
 ## Install Node.JS
 
@@ -127,6 +128,50 @@ After that, open your "executor" and its done. You have a Rich Presence in your 
 - [x] Auto-update
 - [x] Autostart
 
+
+--- 
+
+## Install Custom RP 
+
+
+#### [Windows ![windows](https://media.discordapp.net/attachments/810799100940255260/838488668816932965/ezgif-6-ac9683508192.png)](https://github.com/maximmax42/Discord-CustomRP/releases/download/1.11.10/CustomRP.1.11.10.exe)
+
+- Download the exe, click More Info > Run Anyway > Open Discord RPC Maker from the desktop shortcut or start menu
+
+---
+
+## How it works ?
+
+Go to the [Developer Portal](https://discord.com/developers/applications)
+- New Application
+- Give it a name. 
+- Go to Rich Presence
+  - Art Assets. 
+   - Add 2 images. 
+
+It might take a while before you get up to speed.
+
+Again on the Developer Portal
+- General Information 
+  - Copy App ID 
+
+
+**On Custom RP :**
+
+- Paste the APP ID in "ID"
+- Put Details and states
+
+Timestamp :
+
+- None : not time under your Rich Presence
+- Since Custom RP started : Time since your Rich Presence was on
+- Your Local time : Time in your country. 
+- Custom Timestamp : Its a Timer
+
+Large/Small Image : 
+
+Key : Name of your image (Assets) on your Dev. Portal
+Text : Text you associated in your image.
 
 
 
