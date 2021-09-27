@@ -158,7 +158,7 @@ Again on the Developer Portal
 
 **On Custom RP :**
 
-- Paste the APP ID in "ID"
+- Paste the Application ID in "ID"
 - Put Details and states
 
 Timestamp :
@@ -168,10 +168,10 @@ Timestamp :
 - Your Local time : Time in your country. 
 - Custom Timestamp : Its a Timer
 
-Large/Small Image : 
+Large / Small Image : 
 
-Key : Name of your image (Assets) on your Dev. Portal
-Text : Text you associated in your image.
+- Key : Name of your image (Assets) on your Dev. Portal
+- Text : Text you associated in your image.
 
 
 
