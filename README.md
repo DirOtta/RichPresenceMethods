@@ -190,13 +190,9 @@ Large / Small Image :
 - [x] Clean and lightweight UI
 - [x] Clear instructions
 - [x] Custom, simplified developer portal
-- [x] Easy installers for Windows
-- [x] Export presences and share with friends
+- [x] Easy installers for Windows, macOS and Linux
 - [x] Multiple themes
 - [x] Auto-update
-- [x] Pywal support
-- [x] AUR Package
-- [x] CLI support
 - [x] Autostart
 
 
@@ -210,6 +206,11 @@ Large / Small Image :
 #### [macOS ![mac](https://media.discordapp.net/attachments/810799100940255260/838489488505307176/ezgif-6-cea52c6e0dcc.png)](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Mac.zip)
 
 #### [Linux ![tux](https://media.discordapp.net/attachments/810799100940255260/838491112863039558/ezgif-6-17b58fff7c7c.png)](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Linux.AppImage)
+
+
+- Install the [Rich Presence Plugin](https://betterdiscord.app/Download?id=238)
+
+
 
 
 
