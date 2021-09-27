@@ -177,7 +177,7 @@ Large / Small Image :
 ---
 
 
-![Small](https://cdn.discordapp.com/attachments/775020194237120532/892135143152697374/siteicon.png)
+![Small](https://cdn.discordapp.com/attachments/775020194237120532/892137295149412392/Better-Discord.jpg)
 ## BetterDiscord Plugin
 
 
@@ -193,7 +193,6 @@ Large / Small Image :
 - [x] Easy installers for Windows
 - [x] Export presences and share with friends
 - [x] Multiple themes
-- [x] Cross-platform system tray support
 - [x] Auto-update
 - [x] Pywal support
 - [x] AUR Package
@@ -204,6 +203,7 @@ Large / Small Image :
 ---
 
 ## Install BetterDiscord 
+###### BetterDiscord work only on Canary, PTB and Official Discord client.
 
 #### [Windows ![windows](https://media.discordapp.net/attachments/810799100940255260/838488668816932965/ezgif-6-ac9683508192.png)](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe)
 
