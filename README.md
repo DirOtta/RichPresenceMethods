@@ -209,7 +209,7 @@ Large / Small Image :
 
 #### [macOS ![mac](https://media.discordapp.net/attachments/810799100940255260/838489488505307176/ezgif-6-cea52c6e0dcc.png)](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Mac.zip)
 
-#### [AppImage (all Linux distros) ![tux](https://media.discordapp.net/attachments/810799100940255260/838491112863039558/ezgif-6-17b58fff7c7c.png)](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Linux.AppImage)
+#### [Linux ![tux](https://media.discordapp.net/attachments/810799100940255260/838491112863039558/ezgif-6-17b58fff7c7c.png)](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Linux.AppImage)
 
 
 
