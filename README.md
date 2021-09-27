@@ -174,6 +174,42 @@ Large / Small Image :
 - Text : Text you associated in your image.
 
 
+---
+
+
+![Small](https://cdn.discordapp.com/attachments/775020194237120532/892135143152697374/siteicon.png)
+## BetterDiscord Plugin
+
+
+---
+
+## Features
+
+- [x] Clickable buttons!
+- [x] Make and manage multiple presences
+- [x] Clean and lightweight UI
+- [x] Clear instructions
+- [x] Custom, simplified developer portal
+- [x] Easy installers for Windows
+- [x] Export presences and share with friends
+- [x] Multiple themes
+- [x] Cross-platform system tray support
+- [x] Auto-update
+- [x] Pywal support
+- [x] AUR Package
+- [x] CLI support
+- [x] Autostart
+
+
+---
+
+## Install BetterDiscord 
+
+#### [Windows ![windows](https://media.discordapp.net/attachments/810799100940255260/838488668816932965/ezgif-6-ac9683508192.png)](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe)
+
+#### [macOS ![mac](https://media.discordapp.net/attachments/810799100940255260/838489488505307176/ezgif-6-cea52c6e0dcc.png)](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Mac.zip)
+
+#### [AppImage (all Linux distros) ![tux](https://media.discordapp.net/attachments/810799100940255260/838491112863039558/ezgif-6-17b58fff7c7c.png)](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Linux.AppImage)
 
 
 
