@@ -245,7 +245,7 @@ You can add 2 buttons.
 - You can support [**ThatOneCalculator**](https://buymeacoffee.com/that1calculator). He is the author of the [Discord RP Maker](https://github.com/ThatOneCalculator/DiscordRPCMaker). 
 - You can support [**Le FoxTo**](https://streamlabs.com/foxto/tip). He is the author of [Node.JS Rich Presence](https://youtu.be/thUxkRfYVV0). His video is only in French. 
 - You can support [**maxmimmax42**](https://ko-fi.com/maximmax42). He is the author of the [Custom RP](https://github.com/maximmax42/Discord-CustomRP).
-- You can support [**Lucario**](https://www.buymeacoffee.com/lucariodev). He is the authr of the [BetterDiscord Plugin](https://github.com/Mega-Mewthree/BetterDiscordPlugins/tree/bad904368241b89d129bc81138e25de3be6748c0/Plugins/AutoStartRichPresence) which allows to have a Rich Presence.
+- You can support [**Lucario**](https://www.buymeacoffee.com/lucariodev). He is the author of the [BetterDiscord Plugin](https://github.com/Mega-Mewthree/BetterDiscordPlugins/tree/bad904368241b89d129bc81138e25de3be6748c0/Plugins/AutoStartRichPresence) which allows to have a Rich Presence.
 
 
 ---
